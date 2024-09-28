@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+brotli
+httpx
+websockets
+python-multipart
+requests
